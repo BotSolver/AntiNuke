@@ -24,6 +24,7 @@ A Open Source Discord Anti Nuke Bot to stop **Raids**, **Nuking**, and **Mass Dm
 
 - Anti Ban
 - Anti Kick
+- Member Restoration
 - Auto Moderation
 - Chat Bot Ai
 - Anti Mass Mention
