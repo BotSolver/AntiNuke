@@ -20,6 +20,8 @@
 
 A Open Source Discord Anti Nuke Bot to stop **Raids**, **Nuking**, and **Mass Dms**.
 
+**ONLY THE RELEASE VERSION WORKS AT THE MOMENT**
+
 ### AntiNuke Features
 
 - Anti Ban
