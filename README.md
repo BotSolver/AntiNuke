@@ -26,7 +26,7 @@ A Open Source Discord AntiNuke Bot to stop **Raids**, **Nuking**, and **Mass Dms
 
 When it is installing it's modules and dll's, do **NOT** forcefully close it from running in the background, it was made to be that way to look better.
 
-If the bot doesn't go online, you did something wrong, just change the config settings.
+If the bot doesn't go online you did something wrong, just change the config settings.
 
 ### AntiNuke Features
 
