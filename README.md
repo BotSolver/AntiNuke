@@ -16,7 +16,7 @@
 
 ---
 
-## What is AntiNuke?
+## What is This AntiNuke Bot?
 
 A Open Source Discord AntiNuke Bot to stop **Raids**, **Nuking**, and **Mass Dms**.
 
