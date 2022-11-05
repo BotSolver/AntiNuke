@@ -32,6 +32,14 @@ When it is installing it's modules and dll's, do **NOT** forcefully close it fro
 
 If the bot doesn't go online you did something wrong, just change the config settings.
 
+### How To Use
+
+1. Make sure 2fa on the account you made the bot on is off, leave the phone number on if you want.
+2. Download the config the config.json.
+3. STart the bot.
+4. Setup the bot in the server.
+5. You're all good now!
+
 ### AntiNuke Features
 
 - Anti Ban
