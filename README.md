@@ -34,11 +34,12 @@ If the bot doesn't go online you did something wrong, just change the config set
 
 ### How To Use
 
-1. Make sure 2fa on the account you made the bot on is off, leave the phone number on if you want.
-2. Download the config the config.json.
-3. STart the bot.
-4. Setup the bot in the server.
-5. You're all good now!
+1. Download the AntiNuke program and unzip the files. 
+2. Open the config.json file with a text editor and fill in all the required information. This includes your Discord token, your Discord server ID, and the role ID of the role you want to assign to users who pass the anti-nuke test.
+3. Save the changes to the config.json file and close the text editor. 
+4. Open the "Start Bot.exe" file to launch the AntiNuke program.
+5. Configure the bot for your Discord server by typing the "config" command into the chat. This will set up the anti-nuke test and assign the role to users who pass it.
+6. The AntiNuke program is now ready for use. Invite users to your Discord server and have them take the anti-nuke test. If they pass, they will be assigned the role you specified.
 
 ### AntiNuke Features
 
