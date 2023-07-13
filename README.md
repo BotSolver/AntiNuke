@@ -9,7 +9,7 @@
 <h4 align="center">AntiNuke Bot</h4>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/15690-Downloads-blue">
+    <img src="https://img.shields.io/badge/22742-Downloads-blue">
     <img src="https://img.shields.io/badge/Platform-Windows-blue">
     <img src="https://img.shields.io/badge/Version-1.2.0-blue">
     <img src="https://img.shields.io/node/v/e">
@@ -17,7 +17,7 @@
 
 ---
 
-## THANK YOU FOR 15000 DOWNLOADS!!
+## THANK YOU FOR 20000 DOWNLOADS!!
 
 ## What is This AntiNuke Bot?
 
