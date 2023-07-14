@@ -50,7 +50,7 @@
     "weather-js": "^2.0.0",
     "weky": "^3.1.8",
     "wrap-ansi": "^8.0.1",
-    "yargs": "^17.3.1"
+    "yargs": "^17.7.2"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
