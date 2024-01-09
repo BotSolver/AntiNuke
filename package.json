@@ -26,7 +26,7 @@
     "discord.js": "^13.12.0",
     "dotenv": "^16.0.0",
     "emoji": "^0.3.2",
-    "enmap": "^5.9.0",
+    "enmap": "^5.9.8",
     "erela.js": "^2.3.3",
     "erela.js-deezer": "^1.0.7",
     "erela.js-facebook": "^1.0.4",
